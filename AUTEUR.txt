@@ -1,0 +1,2 @@
+prenom=Mame Sanou 
+Nom=Ndiaye
